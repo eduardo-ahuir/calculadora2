@@ -54,7 +54,6 @@
 
         <!-- TextBox -->
         <TextBox IsReadOnly="True" TextAlignment="Right" VerticalContentAlignment="Bottom" FontSize="40" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4">0</TextBox>
-        <TextBox IsReadOnly="True" TextAlignment="Right" VerticalContentAlignment="Bottom" FontSize="40" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4">0</TextBox>
         
     
     </Grid>
